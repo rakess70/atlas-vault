@@ -10,3 +10,4 @@ Items captured by ATLAS land here for review.
 - **Follow up Florida Restoration** — Rod needs to follow up with Florida Restoration about their Google developer account. → [[Areas/Business/captures/2026-03-25 - Follow up Florida Restoration.md]] _(2026-03-25 01:50 PM)_
 - **Church Name Correction** — Rod corrected the name of the church he needs to follow up with to Restoration Place, located in Florida. → [[Areas/Business/captures/2026-03-25 - Church Name Correction.md]] _(2026-03-25 01:56 PM)_
 - **Work on Buwelo** — Rod needs a reminder to work on Buwelo, an R3VS client. → [[Areas/Business/captures/2026-03-25 - Work on Buwelo.md]] _(2026-03-25 09:45 PM)_
+- **Work on Restoration forms** — Rod needs a reminder to work on forms for Restoration Place. → [[Areas/Business/captures/2026-03-25 - Work on Restoration forms.md]] _(2026-03-25 09:46 PM)_
