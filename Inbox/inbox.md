@@ -11,3 +11,4 @@ Items captured by ATLAS land here for review.
 - **Church Name Correction** — Rod corrected the name of the church he needs to follow up with to Restoration Place, located in Florida. → [[Areas/Business/captures/2026-03-25 - Church Name Correction.md]] _(2026-03-25 01:56 PM)_
 - **Work on Buwelo** — Rod needs a reminder to work on Buwelo, an R3VS client. → [[Areas/Business/captures/2026-03-25 - Work on Buwelo.md]] _(2026-03-25 09:45 PM)_
 - **Work on Restoration forms** — Rod needs a reminder to work on forms for Restoration Place. → [[Areas/Business/captures/2026-03-25 - Work on Restoration forms.md]] _(2026-03-25 09:46 PM)_
+- **Past Morning Briefing** — Rod clarifies that it is now past the morning briefing on Monday. → [[Inbox/captures/2026-03-30 - Past Morning Briefing.md]] _(2026-03-30 04:07 PM)_
