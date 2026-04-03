@@ -13,3 +13,4 @@ Items captured by ATLAS land here for review.
 - **Work on Restoration forms** — Rod needs a reminder to work on forms for Restoration Place. → [[Areas/Business/captures/2026-03-25 - Work on Restoration forms.md]] _(2026-03-25 09:46 PM)_
 - **Past Morning Briefing** — Rod clarifies that it is now past the morning briefing on Monday. → [[Inbox/captures/2026-03-30 - Past Morning Briefing.md]] _(2026-03-30 04:07 PM)_
 - **Clarify Follow-Up** — Rod asks for clarification on what specific task he needs to follow up on. → [[Areas/Business/captures/2026-03-31 - Clarify Follow-Up.md]] _(2026-03-31 12:05 AM)_
+- **Follow up Clay County Seniors** — Rod needs a follow-up with Clay County Seniors after their board meeting on April 16th. → [[Areas/Business/captures/2026-04-03 - Follow up Clay County Seniors.md]] _(2026-04-03 08:39 PM)_
