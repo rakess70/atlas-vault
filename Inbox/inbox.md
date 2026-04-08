@@ -14,3 +14,4 @@ Items captured by ATLAS land here for review.
 - **Past Morning Briefing** — Rod clarifies that it is now past the morning briefing on Monday. → [[Inbox/captures/2026-03-30 - Past Morning Briefing.md]] _(2026-03-30 04:07 PM)_
 - **Clarify Follow-Up** — Rod asks for clarification on what specific task he needs to follow up on. → [[Areas/Business/captures/2026-03-31 - Clarify Follow-Up.md]] _(2026-03-31 12:05 AM)_
 - **Follow up Clay County Seniors** — Rod needs a follow-up with Clay County Seniors after their board meeting on April 16th. → [[Areas/Business/captures/2026-04-03 - Follow up Clay County Seniors.md]] _(2026-04-03 08:39 PM)_
+- **Fortress Founders NFT Task** — Rod wants to add a task for tomorrow to work on the Fortress Founders NFT project. → [[Areas/Business/captures/2026-04-08 - Fortress Founders NFT Task.md]] _(2026-04-08 03:16 PM)_
