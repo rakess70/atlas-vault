@@ -16,3 +16,4 @@ Items captured by ATLAS land here for review.
 - **Follow up Clay County Seniors** — Rod needs a follow-up with Clay County Seniors after their board meeting on April 16th. → [[Areas/Business/captures/2026-04-03 - Follow up Clay County Seniors.md]] _(2026-04-03 08:39 PM)_
 - **Fortress Founders NFT Task** — Rod wants to add a task for tomorrow to work on the Fortress Founders NFT project. → [[Areas/Business/captures/2026-04-08 - Fortress Founders NFT Task.md]] _(2026-04-08 03:16 PM)_
 - **Reach Out to Mary Jackson** — Rod needs a reminder to contact Mary Jackson tomorrow to set up call tracking billing. → [[Areas/Business/captures/2026-04-09 - Reach Out to Mary Jackson.md]] _(2026-04-09 01:18 AM)_
+- **Calendar ICS Link Shared** — Rod shared a Google Calendar ICS subscription link, likely for syncing an external calendar feed. → [[Areas/Business/captures/2026-04-09 - Calendar ICS Link Shared.md]] _(2026-04-09 01:20 PM)_
