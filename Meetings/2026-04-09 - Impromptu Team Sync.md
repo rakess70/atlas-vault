@@ -1,8 +1,8 @@
 ---
 date: 2026-04-09
 attendees: 
-fathom_id: 136708579
-fathom_url: https://fathom.video/share/wbxG4x5uP_KSv_tqsG-jssq2FCAz7-Gt
+fathom_id: 136817787
+fathom_url: https://fathom.video/share/L7KSbTJvNUMKHXLQ8jSNyf7667xMxA3N
 type: meeting
 ---
 
@@ -10,7 +10,7 @@ type: meeting
 
 **Date:** 2026-04-09 | **Duration:** unknown
 **Attendees:** 
-**Fathom:** [View Recording](https://fathom.video/share/wbxG4x5uP_KSv_tqsG-jssq2FCAz7-Gt)
+**Fathom:** [View Recording](https://fathom.video/share/L7KSbTJvNUMKHXLQ8jSNyf7667xMxA3N)
 
 ## Summary
 (no summary available — Fathom may still be processing)

@@ -17,3 +17,4 @@ Items captured by ATLAS land here for review.
 - **Fortress Founders NFT Task** — Rod wants to add a task for tomorrow to work on the Fortress Founders NFT project. → [[Areas/Business/captures/2026-04-08 - Fortress Founders NFT Task.md]] _(2026-04-08 03:16 PM)_
 - **Reach Out to Mary Jackson** — Rod needs a reminder to contact Mary Jackson tomorrow to set up call tracking billing. → [[Areas/Business/captures/2026-04-09 - Reach Out to Mary Jackson.md]] _(2026-04-09 01:18 AM)_
 - **Calendar ICS Link Shared** — Rod shared a Google Calendar ICS subscription link, likely for syncing an external calendar feed. → [[Areas/Business/captures/2026-04-09 - Calendar ICS Link Shared.md]] _(2026-04-09 01:20 PM)_
+- **Deferred or Dismissed Input** — Rod indicated 'not right now', suggesting a deferral or dismissal with no actionable content. → [[Inbox/captures/2026-04-15 - Deferred or Dismissed Input.md]] _(2026-04-15 05:00 PM)_
