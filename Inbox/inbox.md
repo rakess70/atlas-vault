@@ -18,3 +18,4 @@ Items captured by ATLAS land here for review.
 - **Reach Out to Mary Jackson** — Rod needs a reminder to contact Mary Jackson tomorrow to set up call tracking billing. → [[Areas/Business/captures/2026-04-09 - Reach Out to Mary Jackson.md]] _(2026-04-09 01:18 AM)_
 - **Calendar ICS Link Shared** — Rod shared a Google Calendar ICS subscription link, likely for syncing an external calendar feed. → [[Areas/Business/captures/2026-04-09 - Calendar ICS Link Shared.md]] _(2026-04-09 01:20 PM)_
 - **Deferred or Dismissed Input** — Rod indicated 'not right now', suggesting a deferral or dismissal with no actionable content. → [[Inbox/captures/2026-04-15 - Deferred or Dismissed Input.md]] _(2026-04-15 05:00 PM)_
+- **Haircut at 2:30 Today** — Rod has a haircut appointment at 2:30 PM today, Friday April 17. → [[Areas/Personal & Family/captures/2026-04-17 - Haircut at 230 Today.md]] _(2026-04-17 05:40 PM)_
